@@ -11,3 +11,7 @@ d719486 (HEAD -> main, origin/main, origin/HEAD) finished!
 70c936d tests
 8f7b618 LinkedHashSet change
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
